@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Josefin+Sans&display=swap');
+
+
+
+
+/* VARIABLES */
+/* FONTS' SECTION */
+:root{
+    --logo-font: font-family: 'Josefin Sans', sans-serif; 
+    --main-font: font-family: 'Inter', sans-serif;         
+
+    --head-and-p-size: 16px;
+    --font-size-first: 40px;
+    --font-size-second: 18px;
+
+    --main-font-color: #35414B;
+    --primary-font-color: #4E5A65;
+    --buttons-color: #796EFF;
+}
+
